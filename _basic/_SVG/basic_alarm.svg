@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="26"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,20 32,32 40,36 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="21.995" y1="56.005" x2="15" y2="63"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="49" y1="63" x2="42.005" y2="56.005"/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="1,8 5,4 15,6 3,18 "/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="59,4 63,8 61,18 49,6 "/>
-</svg>
+<svg viewBox="0 0 64 64"><path d="M32 5C17.1 5 5 17.1 5 32s12.1 27 27 27 27-12.1 27-27S46.9 5 32 5zm0 2c13.819 0 25 11.181 25 25S45.819 57 32 57 7 45.819 7 32 18.181 7 32 7z"/><path d="M31 20v12.617l8.553 4.278.894-1.79L33 31.383V20zm-9.713 35.299l-6.994 6.994 1.414 1.414 6.994-6.994zm21.426 0l-1.414 1.414 6.994 6.994 1.414-1.414zM4.672 2.914L-.086 7.672l.106.523L2.387 20.03 17.029 5.387zm.656 2.172l7.645 1.527-9.36 9.36-1.527-7.645zm54-2.172l-.523.106L46.97 5.387l14.642 14.642 2.473-12.357zm-.656 2.172l3.242 3.242-1.527 7.645-9.36-9.36z"/></svg>

@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="44" cy="38" r="19"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="44" cy="38" r="13"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="30,51 1,51 1,57 38,57 38,56 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="27,45 3,45 3,51 30,51 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="26,39 5,39 5,45 27,45 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="26,33 1,33 1,39 26,39 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="29,27 3,27 3,33 26,33 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="35,21 1,21 1,27 29,27 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="40,20 40,15 3,15 3,21 35,21 "/>
-<rect x="1" y="9" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="37" height="6"/>
-</svg>
+<svg version="1.0" viewBox="0 0 64 64"><path d="M44 18c-11.034 0-20 8.966-20 20s8.966 20 20 20 20-8.966 20-20-8.966-20-20-20zm0 2c9.953 0 18 8.047 18 18s-8.047 18-18 18-18-8.047-18-18 8.047-18 18-18z"/><path d="M44 24c-7.72 0-14 6.28-14 14s6.28 14 14 14 14-6.28 14-14-6.28-14-14-14zm0 2c6.64 0 12 5.36 12 12s-5.36 12-12 12-12-5.36-12-12 5.36-12 12-12zM0 50v8h39v-2H2v-4h28v-2z"/><path d="M2 44v8h28v-2H4v-4h23v-2z"/><path d="M4 38v8h23v-2H6v-4h20v-2z"/><path d="M0 32v8h26v-2H2v-4h24v-2z"/><path d="M2 26v8h24v-2H4v-4h25v-2z"/><path d="M0 20v8h29v-2H2v-4h33v-2z"/><path d="M2 14v8h33v-2H4v-4h35v4h2v-6z"/><path d="M0 8v8h39V8zm2 2h35v4H2z"/></svg>

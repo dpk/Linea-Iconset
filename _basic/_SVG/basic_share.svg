@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="51" cy="13" r="12"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="11" cy="42" r="10"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="48" cy="55" r="8"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="40" y1="54" x2="20" y2="46"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="19" y1="35" x2="41" y2="21"/>
-</svg>
+<svg viewBox="0 0 64 64"><path d="M51 0c-7.168 0-13 5.832-13 13s5.832 13 13 13 13-5.832 13-13S58.168 0 51 0zm0 2c6.087 0 11 4.913 11 11s-4.913 11-11 11-11-4.913-11-11S44.913 2 51 2zM11 31C4.937 31 0 35.937 0 42s4.937 11 11 11 11-4.937 11-11-4.937-11-11-11zm0 2c4.982 0 9 4.018 9 9s-4.018 9-9 9-9-4.018-9-9 4.018-9 9-9zm37 13c-4.959 0-9 4.041-9 9s4.041 9 9 9 9-4.041 9-9-4.041-9-9-9zm0 2c3.878 0 7 3.122 7 7s-3.122 7-7 7-7-3.122-7-7 3.122-7 7-7z"/><path d="M20.371 45.072l-.742 1.856 20 8 .742-1.856zm20.092-24.916l-22 14 1.074 1.688 22-14z"/></svg>

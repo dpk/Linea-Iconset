@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="13" x2="32" y2="63"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="19,50 9,47 6,57 
-	"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="45,50 55,47 
-	59,57 "/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" d="M54.752,47
-	C51.555,56.301,42.576,63,32,63c-10.575,0-19.553-6.698-22.751-15.998"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="23" y1="17" x2="41" y2="17"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="7" r="6"/>
-</svg>
+<svg viewBox="0 0 64 64"><path d="M31 13v50h2V13zM9.287 46.043l-1.244.67-3 10 1.914.574 2.713-9.043 9.043 2.713.574-1.914zm45.426 0l-10 3 .574 1.914 9.125-2.736 3.66 9.15 1.856-.742-4-10z"/><path d="M53.807 46.676C50.749 55.572 42.154 62 32 62c-10.153 0-18.746-6.427-21.805-15.322l-1.892.65C11.64 57.033 21.003 64 32 64c10.998 0 20.361-6.97 23.697-16.676zM23 16v2h18v-2zm9-16c-3.854 0-7 3.146-7 7s3.146 7 7 7 7-3.146 7-7-3.146-7-7-7zm0 2c2.773 0 5 2.227 5 5s-2.227 5-5 5-5-2.227-5-5 2.227-5 5-5z"/></svg>

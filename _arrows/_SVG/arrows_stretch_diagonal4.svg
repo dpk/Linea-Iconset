@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="1,12 1,1 12,1 "/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="63,52 63,63 
-	52,63 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="63" y1="63" x2="32" y2="32"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="32" y1="32" x2="1" y2="1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" x1="63" y1="1" x2="1" y2="63"/>
-</svg>
+<svg viewBox="0 0 64 64"><path d="M1 0L0 1v11h2V2h10V0zm61 52v10H52v2h11l1-1V52z"/><path d="M32.707 31.293l-1.414 1.414 31 31 1.414-1.414z"/><path d="M1.707.293L.293 1.707l31 31 1.414-1.414z"/><path d="M62.293.293l-62 62 1.414 1.414 62-62z"/></svg>

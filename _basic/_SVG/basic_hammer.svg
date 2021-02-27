@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="22" y1="20" x2="41" y2="39"/>
-<rect x="46.257" y="35.065" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 120.5036 47.0858)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="8.485" height="26.87"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M1,19L17,3c6,6,13,1,13,1l4,4L12,30L1,19z"/>
-</svg>
+<svg viewBox="0 0 64 64"><path d="M22.707 19.293l-1.414 1.414 19 19 1.414-1.414z"/><path d="M64.415 55l-.707-.706L44 34.586l-7.413 7.413L57 62.414zm-2.829 0l-4.585 4.586-17.586-17.587L44 37.414zM17 1.586L-.414 19l.707.707L12 31.414 35.414 8l-5.307-5.307-.689.493s-1.59 1.129-3.863 1.584c-2.274.454-5.084.287-7.848-2.477zm.092 2.736c3.035 2.56 6.346 2.91 8.853 2.408 1.94-.388 3.17-1.05 3.889-1.482L32.586 8 12 28.586 2.414 19z"/></svg>

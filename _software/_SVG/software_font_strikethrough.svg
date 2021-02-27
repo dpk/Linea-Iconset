@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<g>
-	<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="38,51 23,9 22,9 7,51 	"/>
-	<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="35" x2="13" y2="35"/>
-</g>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M44,34c0,0,1.5-2,5.5-2s5.5,3,5.5,5s0,10,0,10
-	s0,3,2.5,3"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M55,40h-5c0,0-7,0-7,5s4,5,5,5s7,0,7-7"/>
-<rect x="1" y="1" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="62" height="62"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="6" y1="44" x2="58" y2="44"/>
-</svg>
+<svg version="1.0" viewBox="0 0 64 64"><path d="M38 51L23 9h-1L7 51m25-16H13" fill="none" stroke="#000" stroke-width="2" stroke-miterlimit="10"/><path d="M49.5 31c-2.167 0-3.729.55-4.746 1.13-1.018.582-1.555 1.27-1.555 1.27l1.602 1.2s.213-.312.945-.73c.733-.42 1.92-.87 3.754-.87 1.75 0 2.802.612 3.498 1.408C53.694 35.204 54 36.25 54 37v10s-.015.916.389 1.885C54.792 49.853 55.85 51 57.5 51v-2c-.85 0-1.042-.353-1.264-.885C56.015 47.584 56 47 56 47V37c0-1.25-.444-2.704-1.498-3.908C53.448 31.888 51.75 31 49.5 31z"/><path d="M50 39s-1.887-.012-3.836.684c-.974.348-1.993.879-2.8 1.744C42.555 42.293 42 43.517 42 45c0 2.767 1.239 4.472 2.639 5.25 1.4.778 2.861.75 3.361.75s2.46.023 4.35-.994C54.238 48.989 56 46.786 56 43h-2c0 3.214-1.238 4.511-2.6 5.244-1.36.733-2.9.756-3.4.756s-1.539-.028-2.389-.5C44.761 48.028 44 47.233 44 45c0-1.017.32-1.668.824-2.209.505-.541 1.236-.948 2.012-1.225C48.387 41.012 50 41 50 41h5v-2z"/><path d="M0 0v64h64V0zm2 2h60v60H2z"/><path d="M6 43v2h52v-2z"/></svg>

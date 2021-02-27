@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="35" r="28.292"/>
-<polygon fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="37,40 45,21 26,29 
-	19,47 "/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="26" y1="29" x2="37" y2="40"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M36.9,7C36.965,6.677,37,6.342,37,6
-	c0-2.761-2.239-5-5-5s-5,2.239-5,5c0,0.342,0.035,0.677,0.1,1"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="7" x2="32" y2="12"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="58" x2="32" y2="63"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="60" y1="35" x2="55" y2="35"/>
-<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="9" y1="35" x2="4" y2="35"/>
-</svg>
+<svg viewBox="0 0 64 64"><path d="M32 5.707C15.834 5.707 2.707 18.834 2.707 35c0 16.166 13.127 29.293 29.293 29.293 16.166 0 29.293-13.127 29.293-29.293C61.293 18.834 48.166 5.707 32 5.707zm0 2c15.085 0 27.293 12.208 27.293 27.293 0 15.085-12.208 27.293-27.293 27.293C16.915 62.293 4.707 50.085 4.707 35 4.707 19.915 16.915 7.707 32 7.707z"/><path d="M44.611 20.078l-19 8-.543.559-7 18 1.295 1.295 18-7 .559-.543 8-19zm-1.486 2.797l-6.883 16.348-15.486 6.021 6.023-15.486z"/><path d="M26.707 28.293l-1.414 1.414 11 11 1.414-1.414zM32 0c-3.302 0-6 2.698-6 6 0 .41.041.811.12 1.197l1.96-.394A4.07 4.07 0 0128 6c0-2.22 1.78-4 4-4 2.22 0 4 1.78 4 4 0 .274-.028.543-.08.803l1.96.394C37.96 6.811 38 6.41 38 6c0-3.302-2.698-6-6-6z"/><path d="M31 7v5h2V7zm0 51v5h2v-5zm24-24v2h5v-2zM4 34v2h5v-2z"/></svg>

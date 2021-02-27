@@ -1,13 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M11,48C5.477,48,1,43.523,1,38s4.477-10,10-10h2v20
-	H11z"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M53,28c5.523,0,10,4.477,10,10s-4.477,10-10,10h-2
-	V28H53z"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M13,31v-9c0,0,0-16,19-16s19,16,19,16v6"/>
-<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="51,48 51,53 36,59 28,59 28,55 36,55 
-	36,58 "/>
-</svg>
+<svg viewBox="0 0 64 64"><path d="M11 27C4.937 27 0 31.937 0 38s4.937 11 11 11h3V27zm0 2h1v18h-1c-4.983 0-9-4.017-9-9s4.017-9 9-9zm39-2v22h3c6.063 0 11-4.937 11-11s-4.937-11-11-11zm2 2h1c4.983 0 9 4.017 9 9s-4.017 9-9 9h-1z"/><path d="M32 5c-9.78 0-14.96 4.239-17.484 8.49C11.99 17.742 12 22 12 22v9h2v-9s.009-3.742 2.234-7.49C18.46 10.76 22.781 7 32 7c9.22 0 13.54 3.761 15.766 7.51C49.99 18.258 50 22 50 22v6h2v-6s.009-4.258-2.516-8.51C46.96 9.24 41.781 5 32 5zm18 43v4.322l-13 5.201V54H27v6h9.193L52 53.678V48zm-21 8h6v2h-6z"/></svg>

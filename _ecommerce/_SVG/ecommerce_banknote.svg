@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
-<rect x="1" y="16" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="62" height="32"/>
-<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M10,44c0-2.762-2.238-5-5-5V25c2.762,0,5-2.238,5-5
-	h44c0,2.762,2.238,5,5,5v14c-2.762,0-5,2.238-5,5H10z"/>
-<circle fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" cx="32" cy="32" r="8"/>
-</svg>
+<svg version="1.0" viewBox="0 0 64 64"><path d="M0 15v34h64V15zm2 2h60v30H2z"/><path d="M9 19v1c0 2.222-1.778 4-4 4H4v16h1c2.222 0 4 1.778 4 4v1h46v-1c0-2.222 1.778-4 4-4h1V24h-1c-2.222 0-4-1.778-4-4v-1zm1.797 2h42.406A5.865 5.865 0 0058 25.797v12.406A5.865 5.865 0 0053.203 43H10.797A5.865 5.865 0 006 38.203V25.797A5.865 5.865 0 0010.797 21z"/><path d="M32 23c-4.959 0-9 4.041-9 9s4.041 9 9 9 9-4.041 9-9-4.041-9-9-9zm0 2c3.878 0 7 3.122 7 7s-3.122 7-7 7-7-3.122-7-7 3.122-7 7-7z"/></svg>
